@@ -1,35 +1,9 @@
-# Streamlit UI
+fpdf
+joblib
+matplotlib
+numpy
+pandas
+shap
+scikit-learn
 streamlit
 
-# Core Libraries
-pandas
-numpy
-matplotlib
-
-# Machine Learning
-scikit-learn
-joblib
-
-# NLP + Embeddings
-textblob
-sentence-transformers
-
-# PDF Handling
-PyPDF2
-PyMuPDF  # for 'fitz' (PDF text extraction)
-pdf2image  # for converting scanned PDF to image
-pytesseract  # OCR for scanned/handwritten PDFs
-Pillow  # required by pdf2image and pytesseract
-
-# Speech Recognition
-SpeechRecognition
-pyaudio
-
-# Wikipedia API
-wikipedia
-
-# SHAP (if used in explainable models)
-shap
-
-# Report Generation (if needed)
-fpdf
