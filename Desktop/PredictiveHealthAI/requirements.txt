@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 fpdf
 joblib
 matplotlib
@@ -7,3 +8,40 @@ shap
 scikit-learn
 streamlit
 
+=======
+# --- UI Framework ---
+streamlit
+
+# --- Core Libraries ---
+pandas
+numpy
+matplotlib
+
+# --- Machine Learning ---
+scikit-learn
+joblib
+
+# --- NLP & Chatbot Logic ---
+textblob
+sentence-transformers
+
+# --- PDF Handling & OCR ---
+PyPDF2
+PyMuPDF         # required for 'fitz'
+pdf2image
+pytesseract
+Pillow
+
+# --- Speech Recognition (if used) ---
+SpeechRecognition
+pyaudio
+
+# --- External APIs ---
+wikipedia
+
+# --- Explainability Tools (Optional) ---
+shap
+
+# --- PDF Report Generation ---
+fpdf
+>>>>>>> Stashed changes
