@@ -11,8 +11,8 @@ PyMuPDF
 pdf2image
 pytesseract
 Pillow
-SpeechRecognition
-pyaudio
 wikipedia
 shap
 fpdf
+# pyaudio ← REMOVE THIS LINE  [because streamlit cloud cant use this. so this feature doesnot work in cloud]
+# SpeechRecognition ← REMOVE this too if not used
